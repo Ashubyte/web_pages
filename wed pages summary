@@ -1,0 +1,22 @@
+A web page created only using HTML is known as a static web page. Here's a summary of what such a web page entails:
+
+HTML (Hypertext Markup Language): HTML is the standard markup language used to create web pages. It provides the structure and content of the page by using various elements and tags.
+
+Text Content: HTML allows you to include text content in various formats, such as headings, paragraphs, lists, and tables.
+
+Hyperlinks: Using the <a> tag, you can create hyperlinks to other web pages or resources by specifying the URL within the href attribute.
+
+Images: Images can be included in a web page using the <img> tag, where you specify the image file's URL in the src attribute.
+
+Forms: HTML forms allow users to input data, such as text, checkboxes, radio buttons, and submit buttons. Form elements like <input>, <textarea>, and <button> are used for this purpose.
+
+Semantic Markup: HTML provides semantic elements like <header>, <footer>, <nav>, <article>, <section>, and <aside>, which help structure the content and provide meaning to different parts of the page.
+
+Metadata: Metadata can be added to the web page using elements such as <title>, <meta>, and <link>. These elements provide information about the page, such as its title, character encoding, and links to external resources like stylesheets.
+
+HTML Comments: Comments can be added within the HTML code using <!-- -->, allowing developers to annotate their code for clarity or to temporarily disable certain sections.
+
+When you view a static HTML web page in a browser, the browser interprets the HTML code and renders the page accordingly. Unlike dynamic web pages, which can change content based on user interactions or server-side processing, static web pages remain the same each time they are loaded.
+
+
+
